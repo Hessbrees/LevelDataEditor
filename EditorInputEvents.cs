@@ -1,5 +1,3 @@
-using SoE.Levels;
-using SoE.LevelDataEditor;
 using UnityEditor;
 using UnityEditorInternal.VR;
 using UnityEngine;
