@@ -1,6 +1,4 @@
 using Sirenix.OdinInspector;
-using SoE.Entities;
-using SoE.Levels;
 using System;
 using System.Collections;
 using System.Collections.Generic;
