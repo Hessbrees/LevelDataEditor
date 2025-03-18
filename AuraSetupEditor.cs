@@ -1,5 +1,3 @@
-using SoE.Auras;
-using SoE.Statuses;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEditor;
